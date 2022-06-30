@@ -1,1 +1,0 @@
-<?php /* Template name: Cupcake blog */
